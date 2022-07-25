@@ -3,9 +3,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/MuriloLemeP">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=MuriloLemeP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloLemeP&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/MuriloLPereira">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=MuriloLPereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloLPereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## 
