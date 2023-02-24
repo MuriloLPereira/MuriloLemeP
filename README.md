@@ -1,5 +1,4 @@
-### Fala Pessoal!! Como estão?
-#### Prazer, sou o Murilo!!
+### Prazer, sou o Murilo!!
 #### Estudande de Análise e Desenvolvimetno de Sistemas na Universidade de Sorocaba
 
 
